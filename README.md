@@ -1,19 +1,10 @@
 1. SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
-   @article{ravi2024sam2,
-  title={SAM 2: Segment Anything in Images and Videos},
-  author={Ravi, Nikhila and Gabeur, Valentin and Hu, Yuan-Ting and Hu, Ronghang and Ryali, Chaitanya and Ma, Tengyu and Khedr, Haitham and R{\"a}dle, Roman and Rolland, Chloe and Gustafson, Laura and Mintun, Eric and Pan, Junting and Alwala, Kalyan Vasudev and Carion, Nicolas and Wu, Chao-Yuan and Girshick, Ross and Doll{\'a}r, Piotr and Feichtenhofer, Christoph},
-  journal={arXiv preprint arXiv:2408.00714},
-  url={https://arxiv.org/abs/2408.00714},
-  year={2024}
-}
-
-@misc{yang2024samurai,
-      title={SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory}, 
-      author={Cheng-Yen Yang and Hsiang-Wei Huang and Wenhao Chai and Zhongyu Jiang and Jenq-Neng Hwang},
-      year={2024},
-      eprint={2411.11922},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.11922}, 
-}
+   This repository is the official implementation of SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory
+   SAMURAI는 **이미지 분할 모델(SAM)**을 개선해 동작을 추적하며 비디오에서 물체를 자동으로 따라가는 기술
    
+  - Ravi, Nikhila et al., "SAM 2: Segment Anything in Images and Videos", arXiv:2408.00714 (2024).  
+    [Paper Link](https://arxiv.org/abs/2408.00714)
+
+  - Cheng-Yen Yang et al., "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory", arXiv:2411.11922 (2024).  
+    [Paper Link](https://arxiv.org/abs/2411.11922)
+
